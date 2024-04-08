@@ -8,4 +8,4 @@ The first project for ui/ux internship is to create a mobile app sign up flow de
 The second project for ui/ux design is to create a email template.
 
 <b>TASK 3</b>:
-The third project for ui/ux design is to create a restaurent menu.
+The third project for ui/ux design is to create a restaurant menu.
